@@ -1,5 +1,5 @@
-# Entregable: Loggers & Gzip
-## Alumno: Martin Alejandro Avalos
+# Loggers & Gzip
+##Martin Alejandro Avalos
 
 Desafío: Servidores - Loggers & Gzip
 
